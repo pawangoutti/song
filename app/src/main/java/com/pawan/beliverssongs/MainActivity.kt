@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //user
         //data from new branch
+        //pull req
     }
 
     override fun onResume() {
